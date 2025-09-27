@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "amr-controller", "amr-controller.csproj", "{478AB83D-95A8-74D1-45BA-0CD809D47648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{478AB83D-95A8-74D1-45BA-0CD809D47648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478AB83D-95A8-74D1-45BA-0CD809D47648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478AB83D-95A8-74D1-45BA-0CD809D47648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478AB83D-95A8-74D1-45BA-0CD809D47648}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E2015B5-8AAD-424F-99CE-B55C9A0C89CC}
+	EndGlobalSection
+EndGlobal

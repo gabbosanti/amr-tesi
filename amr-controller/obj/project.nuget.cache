@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DJswDdJg8x8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabbo_000\\Desktop\\Tesi\\amr-controller\\amr-controller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabbo_000\\.nuget\\packages\\mqttnet\\5.0.1.1416\\mqttnet.5.0.1.1416.nupkg.sha512"
+  ],
+  "logs": []
+}

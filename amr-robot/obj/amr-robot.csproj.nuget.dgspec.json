@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gabbo_000\\Desktop\\Tesi\\amr-robot\\amr-robot.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gabbo_000\\Desktop\\Tesi\\amr-robot\\amr-robot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gabbo_000\\Desktop\\Tesi\\amr-robot\\amr-robot.csproj",
+        "projectName": "amr-robot",
+        "projectPath": "C:\\Users\\gabbo_000\\Desktop\\Tesi\\amr-robot\\amr-robot.csproj",
+        "packagesPath": "C:\\Users\\gabbo_000\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabbo_000\\Desktop\\Tesi\\amr-robot\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gabbo_000\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Iot.Device.Bindings": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "MQTTnet": {
+              "target": "Package",
+              "version": "[4.0.0.167, )"
+            },
+            "System.Device.Gpio": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

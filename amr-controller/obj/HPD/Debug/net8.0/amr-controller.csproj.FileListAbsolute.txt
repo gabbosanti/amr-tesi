@@ -1,0 +1,17 @@
+C:\Users\gabbo_000\Desktop\Tesi\amr-controller\bin\HPD\Debug\net8.0\amr-controller.exe
+C:\Users\gabbo_000\Desktop\Tesi\amr-controller\bin\HPD\Debug\net8.0\amr-controller.deps.json
+C:\Users\gabbo_000\Desktop\Tesi\amr-controller\bin\HPD\Debug\net8.0\amr-controller.runtimeconfig.json
+C:\Users\gabbo_000\Desktop\Tesi\amr-controller\bin\HPD\Debug\net8.0\amr-controller.dll
+C:\Users\gabbo_000\Desktop\Tesi\amr-controller\bin\HPD\Debug\net8.0\amr-controller.pdb
+C:\Users\gabbo_000\Desktop\Tesi\amr-controller\bin\HPD\Debug\net8.0\MQTTnet.dll
+C:\Users\gabbo_000\Desktop\Tesi\amr-controller\obj\HPD\Debug\net8.0\amr-controller.csproj.AssemblyReference.cache
+C:\Users\gabbo_000\Desktop\Tesi\amr-controller\obj\HPD\Debug\net8.0\amr-controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabbo_000\Desktop\Tesi\amr-controller\obj\HPD\Debug\net8.0\amr-controller.AssemblyInfoInputs.cache
+C:\Users\gabbo_000\Desktop\Tesi\amr-controller\obj\HPD\Debug\net8.0\amr-controller.AssemblyInfo.cs
+C:\Users\gabbo_000\Desktop\Tesi\amr-controller\obj\HPD\Debug\net8.0\amr-controller.csproj.CoreCompileInputs.cache
+C:\Users\gabbo_000\Desktop\Tesi\amr-controller\obj\HPD\Debug\net8.0\amr-cont.47694CF7.Up2Date
+C:\Users\gabbo_000\Desktop\Tesi\amr-controller\obj\HPD\Debug\net8.0\amr-controller.dll
+C:\Users\gabbo_000\Desktop\Tesi\amr-controller\obj\HPD\Debug\net8.0\refint\amr-controller.dll
+C:\Users\gabbo_000\Desktop\Tesi\amr-controller\obj\HPD\Debug\net8.0\amr-controller.pdb
+C:\Users\gabbo_000\Desktop\Tesi\amr-controller\obj\HPD\Debug\net8.0\amr-controller.genruntimeconfig.cache
+C:\Users\gabbo_000\Desktop\Tesi\amr-controller\obj\HPD\Debug\net8.0\ref\amr-controller.dll
